@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+<rect width="1600" height="1000" fill="#06101d"/>
+<g fill="#31d7ff" font-family="monospace" font-size="28" opacity=".75">
+<text x="80" y="90">01  const application = await submitCandidate(data);</text>
+<text x="80" y="145">02  if (!application.cv) return error("CV required");</text>
+<text x="80" y="200">03  function validateEmail(email) {</text>
+<text x="130" y="245">return /^[^@]+@[^@]+\\.[^@]+$/.test(email);</text>
+<text x="80" y="290">04  }</text>
+<text x="80" y="365">05  class DeveloperApplication {</text>
+<text x="130" y="410">constructor(name, country, email, mobile) {</text>
+<text x="180" y="455">this.name = name;</text>
+<text x="180" y="500">this.country = country;</text>
+<text x="180" y="545">this.email = email;</text>
+<text x="180" y="590">this.mobile = mobile;</text>
+<text x="130" y="635">}</text>
+<text x="80" y="680">06  // Twenty8-Production coding vacancy</text>
+<text x="80" y="735">07  database.save(application);</text>
+<text x="80" y="790">08  notifyAdmin("New candidate received");</text>
+<text x="80" y="865">09  console.log("Application ready");</text>
+</g>
+<g fill="#9b7cff" font-family="monospace" font-size="28" opacity=".55">
+<text x="1020" y="130">&lt;form&gt;</text><text x="1080" y="175">&lt;input required&gt;</text>
+<text x="1080" y="220">&lt;select&gt;</text><text x="1080" y="265">&lt;option&gt;Kenya&lt;/option&gt;</text>
+<text x="1080" y="310">&lt;/select&gt;</text><text x="1080" y="355">&lt;input type="file"&gt;</text>
+<text x="1020" y="400">&lt;/form&gt;</text>
+</g></svg>
